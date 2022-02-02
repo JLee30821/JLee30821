@@ -1,0 +1,14 @@
+# Challange 1
+
+name = input("What is your name?: ")
+
+age = int(input("WHat is your age?: "))
+
+repeat = int(input("How many times should we repeat?:"))
+
+f = repeat
+
+old_age = 100 - age
+
+for i in range(f):
+    print(name, "you will be 100 years old in", old_age, "years")
