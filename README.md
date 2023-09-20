@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JLee30821
-- 👀 I’m interested in Phython 3 and Golf :)
-- 🌱 I’m currently learning Phyton 2 and 3
-- 💞️ I’m looking to collaborate on anything at the moment!
 - 📫 Reach me by email at Jonathanlee3221@gmail.com or shoot me a message!
 
 <!---
